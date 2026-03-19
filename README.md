@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=200&section=header&text=Junsu%20Lee&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Real-time%20Pipeline%20%7C%20On-Premise&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=200&section=header&text=이준서&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Real-time%20Pipeline%20%7C%20On-Premise&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
 
 <br/>
 
