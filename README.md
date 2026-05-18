@@ -43,6 +43,8 @@
 
 <br/>
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-circuit.calmee.store-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://circuit.calmee.store)
+&nbsp;
 [![Repo](https://img.shields.io/badge/Frontend-circuit--connect-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/Aguantar/circuit-connect)
 
 </td>
@@ -297,16 +299,5 @@ vibescan scan ./my-project
 ---
 
 <br/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aguantar&show_icons=true&theme=github_dark&hide_border=true&icon_color=2F81F7&title_color=2F81F7&bg_color=0d1117&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguantar&layout=compact&theme=github_dark&hide_border=true&title_color=2F81F7&bg_color=0d1117&cache_seconds=86400" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aguantar&theme=github-dark-blue&hide_border=true&date_format=Y.n.j)](https://git.io/streak-stats)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=100&section=footer" width="100%"/>
