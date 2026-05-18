@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🎮 Circuit Connect — "불을 켜줘!"
+## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.2/assets/svg/1f3ae.svg" width="24" /> Circuit Connect — "불을 켜줘!"
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ A/B Testing (cityHash64)
 
 <br/>
 
-## ⚡ CDC Realtime Pipeline — 실시간 암호화폐 데이터 파이프라인
+## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.2/assets/svg/26a1.svg" width="24" /> CDC Realtime Pipeline — 실시간 암호화폐 데이터 파이프라인
 
 <table>
 <tr>
@@ -146,7 +146,7 @@ MySQL DELETE → Debezium tombstone
 
 <br/>
 
-## 🔧 DataOps Agent Skills — MCP 서버 & Skills 개발
+## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.2/assets/svg/1f527.svg" width="24" /> DataOps Agent Skills — MCP 서버 & Skills 개발
 
 <table>
 <tr>
@@ -216,7 +216,7 @@ Flink group
 
 <br/>
 
-## 🛡️ VibeScan — 바이브코더를 위한 코드 보안 스캐너
+## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.2/assets/svg/1f6e1.svg" width="24" /> VibeScan — 바이브코더를 위한 코드 보안 스캐너
 
 <table>
 <tr>
@@ -249,7 +249,7 @@ vibescan scan ./my-project
 
 <br/>
 
-## 📊 기타 프로젝트
+## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.2/assets/svg/1f4ca.svg" width="24" /> 기타 프로젝트
 
 | Project | Description | Highlight |
 |:--------|:------------|:----------|
@@ -263,7 +263,7 @@ vibescan scan ./my-project
 
 <br/>
 
-## Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.2/assets/svg/1f6e0.svg" width="24" /> Tech Stack
 
 <div align="center">
 
