@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=200&section=header&text=이준서&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Real-time%20Pipeline%20%7C%20On-Premise&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=200&section=header&text=이준서&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Analytics%20Engineering%20%7C%20Experimentation%20%7C%20Real-time%20Data&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
 
 <br/>
 
-미니 PC 온프레미스 환경에서 **실시간 데이터 파이프라인을 직접 구축하고 24/7 운영**합니다.
+실시간 행동 이벤트를 **신뢰할 수 있는 지표와 실험 결과**로 만드는 일을 합니다.
 <br/>
-운영 경험을 **Claude Code MCP 서버와 Skills로 코드화**하여 오픈소스로 배포합니다.
+이벤트 수집 파이프라인부터 **dbt 모델링 · A/B 실험 설계**까지 직접 다루고, 운영 노하우를 **Claude Code MCP·Skills로 코드화**해 오픈소스로 배포합니다.
 
 <br/><br/>
 
@@ -35,9 +35,9 @@
 
 | Metric | Value |
 |:-------|:------|
-| 유저 | **74명** |
+| 유저 | **350명** |
 | 배포 | **원스토어 · 앱인토스** |
-| 이벤트 | **8,475건 (18일)** |
+| 이벤트 | **15,000+ 건 (누적)** |
 | 모드 | 스토리 · 타임어택 |
 | A/B 테스트 | cityHash64 기반 |
 
@@ -300,8 +300,8 @@ vibescan scan ./my-project
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aguantar&show_icons=true&theme=github_dark&hide_border=true&icon_color=2F81F7&title_color=2F81F7&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguantar&layout=compact&theme=github_dark&hide_border=true&title_color=2F81F7&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aguantar&show_icons=true&theme=github_dark&hide_border=true&icon_color=2F81F7&title_color=2F81F7&bg_color=0d1117&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguantar&layout=compact&theme=github_dark&hide_border=true&title_color=2F81F7&bg_color=0d1117&cache_seconds=86400" />
 
 <br/>
 
